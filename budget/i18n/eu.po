@@ -1,20 +1,21 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # * budget
-# 
+#
 # Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: account-budgeting (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-30 22:28+0000\n"
-"PO-Revision-Date: 2016-10-11 09:52+0000\n"
+"POT-Creation-Date: 2017-02-17 23:05+0000\n"
+"PO-Revision-Date: 2017-02-23 15:58+0000\n"
 "Last-Translator: OCA Transbot <transbot@odoo-community.org>\n"
-"Language-Team: Basque (http://www.transifex.com/oca/OCA-account-budgeting-8-0/language/eu/)\n"
+"Language-Team: Basque (http://www.transifex.com/oca/OCA-account-"
+"budgeting-8-0/language/eu/)\n"
+"Language: eu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Language: eu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. module: budget
@@ -228,12 +229,12 @@ msgstr ""
 #: field:budget.budget,code:0 field:budget.item,code:0
 #: field:budget.version,code:0
 msgid "Code"
-msgstr ""
+msgstr "Kodea"
 
 #. module: budget
 #: field:budget.version,company_id:0
 msgid "Company"
-msgstr ""
+msgstr "Enpresa"
 
 #. module: budget
 #: view:budget.line:budget.view_budget_line_search
@@ -457,8 +458,10 @@ msgstr ""
 #. module: budget
 #: view:budget.item:budget.view_budget_item_form
 msgid ""
-"Start your formula by 'result = ' and use standard math symbols with items codes surrounded by %()f.\n"
-"                                    Items' codes will be replaced by items' values and then parsed in python code. So be sure to be python compliant."
+"Start your formula by 'result = ' and use standard math symbols with items "
+"codes surrounded by %()f.\n"
+"                                    Items' codes will be replaced by items' "
+"values and then parsed in python code. So be sure to be python compliant."
 msgstr ""
 
 #. module: budget

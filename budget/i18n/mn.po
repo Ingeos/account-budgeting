@@ -1,20 +1,21 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # * budget
-# 
+#
 # Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: account-budgeting (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-30 22:28+0000\n"
-"PO-Revision-Date: 2016-10-11 09:52+0000\n"
+"POT-Creation-Date: 2017-08-11 22:07+0000\n"
+"PO-Revision-Date: 2017-08-21 07:24+0000\n"
 "Last-Translator: OCA Transbot <transbot@odoo-community.org>\n"
-"Language-Team: Mongolian (http://www.transifex.com/oca/OCA-account-budgeting-8-0/language/mn/)\n"
+"Language-Team: Mongolian (http://www.transifex.com/oca/OCA-account-"
+"budgeting-8-0/language/mn/)\n"
+"Language: mn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Language: mn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. module: budget
@@ -35,7 +36,7 @@ msgstr ""
 #. module: budget
 #: field:budget.budget,active:0 field:budget.item,active:0
 msgid "Active"
-msgstr ""
+msgstr "Идэвхитэй"
 
 #. module: budget
 #: field:budget.budget,active_version_id:0
@@ -233,7 +234,7 @@ msgstr ""
 #. module: budget
 #: field:budget.version,company_id:0
 msgid "Company"
-msgstr ""
+msgstr "Компани"
 
 #. module: budget
 #: view:budget.line:budget.view_budget_line_search
@@ -397,7 +398,7 @@ msgstr ""
 #: view:budget.version:budget.view_budget_version_form
 #: field:budget.version,note:0
 msgid "Notes"
-msgstr ""
+msgstr "Тэмдэглэл"
 
 #. module: budget
 #: model:ir.actions.act_window,name:budget.open_budget_items_list
@@ -457,8 +458,10 @@ msgstr ""
 #. module: budget
 #: view:budget.item:budget.view_budget_item_form
 msgid ""
-"Start your formula by 'result = ' and use standard math symbols with items codes surrounded by %()f.\n"
-"                                    Items' codes will be replaced by items' values and then parsed in python code. So be sure to be python compliant."
+"Start your formula by 'result = ' and use standard math symbols with items "
+"codes surrounded by %()f.\n"
+"                                    Items' codes will be replaced by items' "
+"values and then parsed in python code. So be sure to be python compliant."
 msgstr ""
 
 #. module: budget

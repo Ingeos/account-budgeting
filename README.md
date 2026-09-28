@@ -7,17 +7,19 @@ OpenERP / Odoo Budgeting
 You'll find modules that manage budgeting.
 
 [//]: # (addons)
+
 Available addons
 ----------------
-addon | version | summary
---- | --- | ---
-[budget](budget/) | 8.0.1.1.0 | Multicurrency Analytic Budget
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[budget](budget/) | 8.0.1.1.0 |  | Multicurrency Analytic Budget
+
 
 Unported addons
 ---------------
-addon | version | summary
---- | --- | ---
-[budget_crm](budget_crm/) | 1.0 (unported) | Budget CRM
-[budget_invoice](budget_invoice/) | 1.0 (unported) | Create Invoice from Budget Lines
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[budget_crm](budget_crm/) | 1.0 (unported) |  | Budget CRM
+[budget_invoice](budget_invoice/) | 1.0 (unported) |  | Create Invoice from Budget Lines
 
 [//]: # (end addons)

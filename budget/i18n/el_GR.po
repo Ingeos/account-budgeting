@@ -1,20 +1,21 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # * budget
-# 
+#
 # Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: account-budgeting (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-30 22:28+0000\n"
-"PO-Revision-Date: 2016-11-22 16:30+0000\n"
+"POT-Creation-Date: 2017-08-11 22:07+0000\n"
+"PO-Revision-Date: 2017-08-21 07:17+0000\n"
 "Last-Translator: OCA Transbot <transbot@odoo-community.org>\n"
-"Language-Team: Greek (Greece) (http://www.transifex.com/oca/OCA-account-budgeting-8-0/language/el_GR/)\n"
+"Language-Team: Greek (Greece) (http://www.transifex.com/oca/OCA-account-"
+"budgeting-8-0/language/el_GR/)\n"
+"Language: el_GR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Language: el_GR\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. module: budget
@@ -233,7 +234,7 @@ msgstr ""
 #. module: budget
 #: field:budget.version,company_id:0
 msgid "Company"
-msgstr ""
+msgstr "Εταιρεία"
 
 #. module: budget
 #: view:budget.line:budget.view_budget_line_search
@@ -261,7 +262,7 @@ msgstr ""
 #. module: budget
 #: field:budget.line,currency_id:0 field:budget.version,currency_id:0
 msgid "Currency"
-msgstr ""
+msgstr "Νόμισμα"
 
 #. module: budget
 #: constraint:budget.budget:0
@@ -383,7 +384,7 @@ msgstr ""
 #: field:budget.allocation.type,name:0 field:budget.budget,name:0
 #: field:budget.item,name:0
 msgid "Name"
-msgstr ""
+msgstr "Ονομασία"
 
 #. module: budget
 #: selection:budget.item,style:0 selection:budget.item,type:0
@@ -457,8 +458,10 @@ msgstr ""
 #. module: budget
 #: view:budget.item:budget.view_budget_item_form
 msgid ""
-"Start your formula by 'result = ' and use standard math symbols with items codes surrounded by %()f.\n"
-"                                    Items' codes will be replaced by items' values and then parsed in python code. So be sure to be python compliant."
+"Start your formula by 'result = ' and use standard math symbols with items "
+"codes surrounded by %()f.\n"
+"                                    Items' codes will be replaced by items' "
+"values and then parsed in python code. So be sure to be python compliant."
 msgstr ""
 
 #. module: budget

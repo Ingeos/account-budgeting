@@ -1,20 +1,21 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # * budget
-# 
+#
 # Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: account-budgeting (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-13 23:06+0000\n"
-"PO-Revision-Date: 2017-01-17 19:17+0000\n"
+"POT-Creation-Date: 2017-08-11 22:07+0000\n"
+"PO-Revision-Date: 2017-08-21 07:27+0000\n"
 "Last-Translator: OCA Transbot <transbot@odoo-community.org>\n"
-"Language-Team: Catalan (http://www.transifex.com/oca/OCA-account-budgeting-8-0/language/ca/)\n"
+"Language-Team: Catalan (http://www.transifex.com/oca/OCA-account-"
+"budgeting-8-0/language/ca/)\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Language: ca\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. module: budget
@@ -25,7 +26,7 @@ msgstr ""
 #. module: budget
 #: view:budget.item:budget.view_budget_item_form
 msgid "Accounts"
-msgstr ""
+msgstr "Comptes"
 
 #. module: budget
 #: field:budget.item,all_account_ids:0
@@ -238,7 +239,7 @@ msgstr "Empresa"
 #. module: budget
 #: view:budget.line:budget.view_budget_line_search
 msgid "Contract"
-msgstr ""
+msgstr "Contracte"
 
 #. module: budget
 #: field:budget.allocation.type,create_uid:0 field:budget.budget,create_uid:0
@@ -271,7 +272,7 @@ msgstr ""
 #. module: budget
 #: field:budget.line,name:0
 msgid "Description"
-msgstr ""
+msgstr "Descripció"
 
 #. module: budget
 #: view:budget.line:budget.view_budget_line_analytic_list
@@ -315,7 +316,7 @@ msgstr ""
 #. module: budget
 #: view:budget.line:budget.view_budget_line_search
 msgid "Group By..."
-msgstr ""
+msgstr "Agrupat per..."
 
 #. module: budget
 #: view:budget.item:budget.view_budget_item_form
@@ -397,7 +398,7 @@ msgstr ""
 #: view:budget.version:budget.view_budget_version_form
 #: field:budget.version,note:0
 msgid "Notes"
-msgstr ""
+msgstr "Notes"
 
 #. module: budget
 #: model:ir.actions.act_window,name:budget.open_budget_items_list
@@ -427,7 +428,7 @@ msgstr ""
 #. module: budget
 #: view:budget.line:budget.view_budget_line_form
 msgid "Periods"
-msgstr ""
+msgstr "Períodes"
 
 #. module: budget
 #: view:budget.line:budget.view_budget_line_analytic_list
@@ -457,8 +458,10 @@ msgstr ""
 #. module: budget
 #: view:budget.item:budget.view_budget_item_form
 msgid ""
-"Start your formula by 'result = ' and use standard math symbols with items codes surrounded by %()f.\n"
-"                                    Items' codes will be replaced by items' values and then parsed in python code. So be sure to be python compliant."
+"Start your formula by 'result = ' and use standard math symbols with items "
+"codes surrounded by %()f.\n"
+"                                    Items' codes will be replaced by items' "
+"values and then parsed in python code. So be sure to be python compliant."
 msgstr ""
 
 #. module: budget
@@ -533,4 +536,4 @@ msgstr ""
 #. module: budget
 #: selection:budget.item,type:0
 msgid "View"
-msgstr ""
+msgstr "Vista"
